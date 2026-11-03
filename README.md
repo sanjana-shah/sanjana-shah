@@ -9,45 +9,15 @@
 <br>
 
 > A little corner of my web for all the sidequests and ~~sigh~~ main quests.
-<br>
-
-![Profile status](https://img.shields.io/badge/any_way_you_want_it-that's_the_way_you_need_it-e23636?style=flat-square&labelColor=1565C0&logoColor=ffffff)
-
-<br>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-## presently
-
-```text
-✦ making       this profile README
-✦ learning     cooking
-✦ reading      The Hobbit
-✦ seeking      a good next role
-```
-
-</td>
-<td width="45%" valign="top">
-
-## ✎ field notes
-
-- trying to rediscover my love and curiosity around building things
-- don't use the word masterclass around me
-
-</td>
-</tr>
-</table>
 
 <br>
 
 ## some of my work, at least the stuff that can be public
 
-| project | what it is | mood |
-| :--- | :--- | :--- |
-| **[mausam](https://github.com/sanjana-shah/mausam)** | a weather app that never tracks your location | `✦ tinkering` |
-| **[my personal website](https://sanjana-shah.github.io/)** | a small home for the sidequests | `☼ tinkering` |
+| project | what it is |
+| :--- | :--- |
+| **[mausam](https://github.com/sanjana-shah/mausam)** | a weather app that never tracks your location |
+| **[sanjana eye hospital](https://sanjanaeyehospital.com/)** | website for my mom's eye clinic |
 | **[chase the pizza](https://github.com/sanjana-shah/chase-the-pizza)** | got nostalgic about that snake game | `⌁ shipped` |
 
 <br>
